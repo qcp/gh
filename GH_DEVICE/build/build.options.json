@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "E:\\Arduino\\libraries",
+  "customBuildProperties": "build.path=e:\\GitHub\\gh\\GH_DEVICE\\build,build.warn_data_percentage=75,runtime.tools.mkspiffs.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-3-20ed2b9,runtime.tools.mkspiffs-2.5.0-3-20ed2b9.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-3-20ed2b9,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-3-20ed2b9,runtime.tools.xtensa-lx106-elf-gcc-2.5.0-3-20ed2b9.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-3-20ed2b9,runtime.tools.python.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python\\3.7.2-post1,runtime.tools.python-3.7.2-post1.path=C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python\\3.7.2-post1",
+  "fqbn": "esp8266:esp8266:nodemcuv2:xtal=80,vt=flash,exception=disabled,ssl=all,eesz=4M1M,ip=hb2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+  "hardwareFolders": "E:\\Arduino\\hardware,C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\Grid\\Documents\\Arduino\\libraries",
+  "runtime.ide.version": "10809",
+  "sketchLocation": "e:\\GitHub\\gh\\GH_DEVICE\\espCheck\\espCheck.ino",
+  "toolsFolders": "E:\\Arduino\\tools-builder,E:\\Arduino\\hardware\\tools\\avr,C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages"
+}

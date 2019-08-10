@@ -1,0 +1,39 @@
+{
+    "device": {
+        "kind": "mainDoor",        
+        "mac": "acacacacacac"
+    },
+    "settings": {
+        "name": "full name",
+        "wifi": {
+            "ssid": "namename",
+            "pass": "password"
+        },
+        "temp": {
+            "open_bound": 30,
+            "close_bound": 20
+        },
+        "server": "kva.ru"
+
+    },
+    "states": {
+        "door": "open",
+        "average_temp": 45
+    },
+    "actions":[],
+    "action": {
+        "command":""
+    },
+    "logs": [
+        {
+            "kind": "error",
+            "source": "wifi",
+            "message": "none"
+        },
+        {
+            "kind": "info",
+            "source": "door",
+            "message": "none"
+        }
+    ]
+}

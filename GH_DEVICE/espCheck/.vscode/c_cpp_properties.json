@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "E:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
+                "E:\\Arduino\\hardware\\tools\\avr\\avr\\include\\avr",
+                "C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\**",
+                "C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\libraries\\ESP8266WebServer\\src",
+                "C:\\Users\\Grid\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.2\\libraries\\ESP8266WiFi\\src",
+                "C:\\Users\\Grid\\Documents\\Arduino\\libraries\\WebSockets\\src",
+                "C:\\Users\\Grid\\Documents\\Arduino\\libraries\\OneWire",
+                "C:\\Users\\Grid\\Documents\\Arduino\\libraries\\DallasTemperature",
+                "C:\\Users\\Grid\\Documents\\Arduino\\libraries\\ArduinoJson"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
